@@ -1,0 +1,11 @@
+.first, .third{
+	color: darkcyan;
+}
+
+.second, .fifth{
+	color: orange;
+}
+
+.fourth{
+	color: darkgrey;
+}
