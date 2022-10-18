@@ -1,72 +1,89 @@
+exo 1 :
 <div id="dungeon" class="flex>
 justify-end
 </div>
 
+exo 2 :
 <div id="dungeon" class="flex>
 justify-center
 </div>
 
+exo 3 :
 <div id="dungeon" class="flex>
 justify-around
 </div>
 
+exo 4 :
 <div id="dungeon" class="flex>
 justify-between
 </div>
 
+exo 5 :
 <div id="dungeon" class="flex> 
 align-items : items-center
 </div>
 
+exo 6 : 
 <div id="dungeon" class="flex>
 align-items: items-center ; justify-items: justify-center
 </div>
 
+exo 7 : 
 <div id="dungeon" class="flex> 
 justify-around ; items-end 
 </div>
 
+exo 8 : 
 <div id="dungeon" class="flex>
 flex-row-reverse
 </div>
 
+exo 9 : 
 <div id="dungeon" class="flex>
 flex-col
 </div>
 
+exo 10 : 
 <div id="dungeon" class="flex>
 flex-col-reverse ; items-end ; justify-center
 </div>
 
+exo 11 : 
 <div class="yellow-knight>
 order-3
 </div>
 
+exo 12 : 
 <div class="red-knight>
 order-first
 </div>
 
+exo 13 : 
 <div class="yellow-knight>
 self-center
 </div>
 
+exo 14 : 
 <div class="red-knight>
 order-1 ; self-end
 </div>
 
+exo 15 : 
 <div id="dungeon" class="flex>
 flex-wrap
 </div>
 
+exo 16 : 
 <div id="dungeon" class="flex>
 flex-wrap-reverse ; justify-end
 </div>
 
+exo 17 :
 <div id="dungeon" class="flex>
 content-between
 </div>
 
+exo 18 : 
 <div id="dungeon" class="flex>
 flex-wrap-reverse ; justify-center ; content-center
 </div>
-
