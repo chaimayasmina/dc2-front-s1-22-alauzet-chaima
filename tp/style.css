@@ -36,7 +36,7 @@ body
 #bloc_page
 {
     width: 900px;
-    margin: auto;
+    height: auto;
 }
 
 section h1, footer h1, nav a
@@ -292,14 +292,22 @@ footer h1
     color: #760001;
 }
 
-/*iPhone 12Pro Max*/
+/*iPhone 12Pro*/
 @media only screen 
     and (device-width: 390px) 
-    and (device-height: 844px) 
-    and (-webkit-device-pixel-ratio: 3) { 
-        nav ul{
+    and (device-height: 844px) { 
+        header {
             display: flex;
-            align-items: center;
+            justify-content: flex-start;
+            margin: 0px;
+        }
+
+        nav{
+            display: flex;
             flex-direction: column;
+        }
+
+        #banniere_image {
+            display: none;
         }
     }
