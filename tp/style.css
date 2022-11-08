@@ -302,12 +302,23 @@ footer h1
             margin: 0px;
         }
 
-        nav{
+        nav ul{
             display: flex;
             flex-direction: column;
         }
 
         #banniere_image {
             display: none;
+        }
+
+        section{
+        display: flex;
+        margin-bottom: 20px;
+        flex-direction: column;
+        text-align: left;
+        }
+        
+        body{
+            width: 390px;
         }
     }
